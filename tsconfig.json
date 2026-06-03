@@ -5,5 +5,7 @@
     "sourceMap": true,
     "strict": true,
     "outDir": "out",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
